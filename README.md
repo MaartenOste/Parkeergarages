@@ -1,3 +1,5 @@
+App to show available parking sports in Ghent in real time.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
