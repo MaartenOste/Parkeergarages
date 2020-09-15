@@ -1,0 +1,25 @@
+.ParkingListItem{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	text-align: left;
+}
+
+.ParkingList{
+	width: 100%;
+}
+
+.ParkingItemData{
+	width: 25vw;
+}
+
+.capacity--succes{
+	color: green;
+}
+
+.capacity--warning{
+	color: orange;
+}
+.capacity--danger{
+	color: red;
+}
